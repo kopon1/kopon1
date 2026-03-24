@@ -34,22 +34,7 @@
 # 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kopon1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kopon1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kopon1&theme=tokyonight&hide_border=false" height="150" />
-</div>
-
-###
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kopon1&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://streak-stats.demolab.com?user=kopon1&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
 </div>
 
 ###
