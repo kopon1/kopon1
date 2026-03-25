@@ -20,7 +20,7 @@
 
 <h2 align="left">💫 About Me</h2>
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NWphdmVzZXdncW5xaTVxbmwwcmxkZDAyZzdzMHB4NW1wM3RmMDVpMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/wykXzIq14JZJyVOiAa/giphy.gif" />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXIyNG1mZHd2bzF3YzB0bmZkYzdtMzRoZHB0ZWo0NWYxenNzeWNwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
 <p align="left">I build AI-powered web and mobile apps, Claude API integrations, and MCP/agent builds under JD Technologies for founders and businesses globally. I am looking to collaborate on SaaS products, AI automation tools, and full-stack projects with founders who move fast and care about execution. Currently learning advanced AI agent development, MCP integrations, and Claude ecosystem tooling. Ask me about React, React Native, Next.js, Node.js, TypeScript, Claude API, or going from zero to deployed fast. I built 150+ apps and tools completely solo in 8 months, launched products with 1,000+ users, and won a hackathon by building an MVP and pitching it to investors under a tight deadline.</p>
 
