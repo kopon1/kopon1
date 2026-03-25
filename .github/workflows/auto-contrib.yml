@@ -1,0 +1,25 @@
+name: Auto Daily Contribution
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs every day at midnight UTC
+  workflow_dispatch:    # manual trigger if needed
+
+jobs:
+  daily-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Make a daily commit
+        run: |
+          DATE=$(date +'%Y-%m-%d')
+          echo "Daily contribution $DATE" >> .daily-contrib.txt
+          git config user.name "${{ github.repository_owner }}"
+          git config user.email "${{ github.repository_owner }}@users.noreply.github.com"
+          git add .daily-contrib.txt
+          git commit -m "Daily contribution $DATE" || echo "Nothing to commit"
+          git push
