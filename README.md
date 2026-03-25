@@ -4,7 +4,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kopon1.kopon1" />
 </div>
 
@@ -20,7 +20,7 @@
 
 <h2 align="left">💫 About Me</h2>
 
-<div align="center">
+<div align="right">
   <img height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXIyNG1mZHd2bzF3YzB0bmZkYzdtMzRoZHB0ZWo0NWYxenNzeWNwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="coding gif"/>
 </div>
 
