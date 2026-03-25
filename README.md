@@ -20,7 +20,9 @@
 
 <h2 align="left">💫 About Me</h2>
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXIyNG1mZHd2bzF3YzB0bmZkYzdtMzRoZHB0ZWo0NWYxenNzeWNwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+<div align="center">
+  <img height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXIyNG1mZHd2bzF3YzB0bmZkYzdtMzRoZHB0ZWo0NWYxenNzeWNwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" alt="coding gif"/>
+</div>
 
 <p align="left">I build web and mobile apps, AI-powered tools, automation systems, and software solutions for founders and businesses around the world. I enjoy collaborating on SaaS products, full-stack projects, and innovative ideas that move fast and deliver real impact. I focus on turning complex problems into simple, usable solutions, taking projects from zero to deployed quickly.
 
