@@ -4,7 +4,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kopon1.kopon1" />
 </div>
 
