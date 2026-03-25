@@ -23,9 +23,9 @@
 <img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRrMnc5dWcwMm50Y3N6em1qajI5aGg4eDc4NW8xYTM5dWV1OXNieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 
 <p align="left">
-> I build **web and mobile apps**, **AI-powered tools**, **automation systems**, and **software solutions** for founders and businesses around the world. I enjoy collaborating on **SaaS products**, **full-stack projects**, and **innovative ideas** that move fast and deliver real impact. I focus on **turning complex problems into simple, usable solutions**, taking projects from **zero to deployed quickly**.
+I build **web and mobile apps**, **AI-powered tools**, **automation systems**, and **software solutions** for founders and businesses around the world. I enjoy collaborating on **SaaS products**, **full-stack projects**, and **innovative ideas** that move fast and deliver real impact. I focus on **turning complex problems into simple, usable solutions**, taking projects from **zero to deployed quickly**.
 
-I work across a wide range of technologies and love learning new tools to make products smarter, faster, and more reliable. Ask me about web development, mobile development, automation, APIs, or how to launch a product end-to-end. I’ve built dozens of apps and tools completely solo, launched products with thousands of users, and participated in hackathons where I built MVPs and pitched them under tight deadlines. I’m always looking for exciting challenges where I can create, build, and make an impact.
+I work across a wide range of technologies and love learning new tools to make products smarter, faster, and more reliable. Ask me about **web development**, **mobile development**, **automation**, **APIs**, or how to launch a product end-to-end. I’ve built dozens of apps and tools completely solo, launched products with thousands of users, and participated in hackathons where I built MVPs and pitched them under tight deadlines. I’m always looking for exciting challenges where I can **create, build, and make an impact**.
 </p>
 
 ###
