@@ -38,7 +38,7 @@ I work across a wide range of technologies and love learning new tools to make p
 ## 📊 Github Stats:
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kopon1&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="![kopon1's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kopon1&theme=midnight-purple&hide_border=false)" height="150" alt="streak graph" />
 </div>
 
 ###
