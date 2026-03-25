@@ -18,7 +18,7 @@
 
 ###
 
-<h2 align="left">star💫 About Me</h2>
+<h2 align="left">💫 About Me</h2>
 
 <img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
