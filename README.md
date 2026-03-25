@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justine-ladlad-455a63314) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/koponbun) [![Peerlist](https://img.shields.io/badge/Peerlist-%2300AA45.svg?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/koponbun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeydyee) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/koponbun) [![Peerlist](https://img.shields.io/badge/Peerlist-%2300AA45.svg?style=for-the-badge&logo=peerlist&logoColor=white)](https://peerlist.io/koponbun)
 
 </div>
 
