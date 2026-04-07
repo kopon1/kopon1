@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm kopon1</h1>
+<h1 align="center">Hey 👋 I'm Kopon</h1>
 
 <h3 align="center">Full-Stack Developer & Founder @ JD Technologies</h3>
 
