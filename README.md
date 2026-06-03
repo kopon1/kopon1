@@ -37,10 +37,6 @@ I work across a wide range of technologies and love learning new tools to make p
 
 ## 📊 Github Stats:
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kopon1&theme=tokyonight&hide_border=false" height="150" alt="streak graph" />
-</div>
-
 ###
 
 <picture>
