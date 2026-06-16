@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'm Kopon</h1>
 
-<h3 align="center">Full-Stack Developer & Founder @ JD Technologies</h3>
+<h3 align="center">CTO & Founder @ Kopon Technologies</h3>
 
 ###
 
