@@ -2,7 +2,7 @@
   <img src="assets/wavey-banner.gif" alt="Agent skills by Kopon" width="100%" />
 </p>
 
-# hey I'm kopon
+# hey i'm kopon
 
 Building open-source **skills for AI coding agents**: small, focused behaviors you drop into an agent to change how it thinks and talks.
 
@@ -17,7 +17,7 @@ They work with **Claude Code**, **Cursor**, and other agent harnesses. Each one 
   </a>
 </p>
 
-## Skills
+## skills
 
 **[clear-thinking](https://github.com/kopon1/clear-thinking)** is a decision-making skill for coding agents. Point it at a vague decision and it separates facts from assumptions, hunts blind spots, and gives one straight recommendation. No AI slop.
 
@@ -25,17 +25,17 @@ They work with **Claude Code**, **Cursor**, and other agent harnesses. Each one 
 
 **[agent-personalities](https://github.com/kopon1/agent-personalities)** gives you swappable personalities an agent can wear. Each changes only tone and character, never intelligence or skill: gen-z, gremlin, dry-professor, hype-coach, stoic-butler.
 
-## What I'm after
+## what i'm after
 
 Agents are good at answers and bad at judgment. They over-explain, hedge, and agree with you when they shouldn't.
 
 These skills push the other way: less output, more decision. Shorter answers, clearer tradeoffs, an actual recommendation instead of a list of options.
 
-## Elsewhere
+## elsewhere
 
 I'm CTO & Founder at **[Kopon Technologies](https://www.kopontech.com/)**, where I build AI-powered web and mobile apps for founders: Claude API integrations, MCP servers, and agent tooling. Open to SaaS, AI automation, and full-stack work.
 
-## Sponsor
+## sponsor
 
 These skills are free and open-source. Sponsorship funds development, examples, and testing across agent harnesses.
 
@@ -48,7 +48,7 @@ These skills are free and open-source. Sponsorship funds development, examples, 
   </a>
 </p>
 
-## Contact
+## contact
 
 Want a skill built, or something else? Reach out.
 
