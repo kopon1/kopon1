@@ -4,7 +4,7 @@
 
 # hey I'm kopon
 
-Building open-source **skills for AI coding agents** — small, focused behaviors you drop into an agent to change how it thinks and talks.
+Building open-source **skills for AI coding agents**: small, focused behaviors you drop into an agent to change how it thinks and talks.
 
 They work with **Claude Code**, **Cursor**, and other agent harnesses. Each one does a single thing well instead of trying to be a framework.
 
@@ -19,11 +19,11 @@ They work with **Claude Code**, **Cursor**, and other agent harnesses. Each one 
 
 ## Skills
 
-**[clear-thinking](https://github.com/kopon1/clear-thinking)** — a decision-making skill for coding agents. Point it at a vague decision and it separates facts from assumptions, hunts blind spots, and gives one straight recommendation. No AI slop.
+**[clear-thinking](https://github.com/kopon1/clear-thinking)** is a decision-making skill for coding agents. Point it at a vague decision and it separates facts from assumptions, hunts blind spots, and gives one straight recommendation. No AI slop.
 
-**[gen-z](https://github.com/kopon1/gen-z)** — your AI coding agent, but it says less and writes less. Same answers, none of the yapping.
+**[gen-z](https://github.com/kopon1/gen-z)** is your AI coding agent, but it says less and writes less. Same answers, none of the yapping.
 
-**[agent-personalities](https://github.com/kopon1/agent-personalities)** — swappable personalities an agent can wear. Each changes only tone and character, never intelligence or skill: gen-z, gremlin, dry-professor, hype-coach, stoic-butler.
+**[agent-personalities](https://github.com/kopon1/agent-personalities)** gives you swappable personalities an agent can wear. Each changes only tone and character, never intelligence or skill: gen-z, gremlin, dry-professor, hype-coach, stoic-butler.
 
 ## What I'm after
 
@@ -33,9 +33,9 @@ These skills push the other way: less output, more decision. Shorter answers, cl
 
 ## Elsewhere
 
-I'm CTO & Founder at **[Kopon Technologies](https://www.kopontech.com/)**, where I build AI-powered web and mobile apps for founders — Claude API integrations, MCP servers, and agent tooling. Open to SaaS, AI automation, and full-stack work.
+I'm CTO & Founder at **[Kopon Technologies](https://www.kopontech.com/)**, where I build AI-powered web and mobile apps for founders: Claude API integrations, MCP servers, and agent tooling. Open to SaaS, AI automation, and full-stack work.
 
-## Support
+## Sponsor
 
 These skills are free and open-source. Sponsorship funds development, examples, and testing across agent harnesses.
 
