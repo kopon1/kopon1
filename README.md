@@ -30,7 +30,7 @@ These skills push the other way: less output, more decision. Shorter answers, cl
 
 ## elsewhere
 
-I'm CTO & Founder at **[Kopon Technologies](https://www.kopontech.com/)**, where I build AI-powered web and mobile apps for founders: Claude API integrations, MCP servers, and agent tooling. Open to SaaS, AI automation, and full-stack work.
+I'm CEO & Founder at **[Kopon Technologies](https://www.kopontech.com/)**, where I build AI-powered web and mobile apps for founders: Claude API integrations, MCP servers, and agent tooling. Open to SaaS, AI automation, and full-stack work.
 
 ## sponsor
 
