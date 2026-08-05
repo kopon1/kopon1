@@ -56,7 +56,4 @@ Want a skill built, or something else? Reach out.
   <a href="https://x.com/koponbun">
     <img src="https://img.shields.io/badge/X-@koponbun-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  <a href="https://linkedin.com/in/jeydyee">
-    <img src="https://img.shields.io/badge/LinkedIn-jeydyee-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
 </p>
