@@ -47,13 +47,3 @@ These skills are free and open-source. Sponsorship funds development, examples, 
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
 </p>
-
-## contact
-
-Want a skill built, or something else? Reach out.
-
-<p>
-  <a href="https://x.com/koponbun">
-    <img src="https://img.shields.io/badge/X-@koponbun-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
