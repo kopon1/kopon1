@@ -12,9 +12,6 @@ They work with **Claude Code**, **Cursor**, and other agent harnesses. Each one 
   <a href="https://www.kopontech.com/">
     <img src="https://img.shields.io/badge/kopontech.com-Website-238636?style=for-the-badge&logoColor=white" alt="kopontech.com" />
   </a>
-  <a href="https://x.com/koponbun">
-    <img src="https://img.shields.io/badge/DM%20me-X-111827?style=for-the-badge&logo=x&logoColor=white" alt="DM me on X" />
-  </a>
 </p>
 
 ## skills
