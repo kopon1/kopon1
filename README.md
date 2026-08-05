@@ -40,10 +40,10 @@ I'm CTO & Founder at **[Kopon Technologies](https://www.kopontech.com/)**, where
 These skills are free and open-source. Sponsorship funds development, examples, and testing across agent harnesses.
 
 <p>
-  <a href="https://buymeacoffee.com/koponbun">
+  <a href="https://buymeacoffee.com/daxcalloway">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
-  <a href="https://ko-fi.com/kopon">
+  <a href="https://ko-fi.com/olivebranchtick">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
 </p>
